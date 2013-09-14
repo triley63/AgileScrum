@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A3A59E9-08FF-4776-9EE6-1AFAE2568E92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{E7E6441A-13DC-441B-9260-00EE7567DD00}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\Agile   Scrum Project Tracking.xmind = Docs\Agile   Scrum Project Tracking.xmind
+		Docs\Reference Notes.txt = Docs\Reference Notes.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E7E6441A-13DC-441B-9260-00EE7567DD00} = {8A3A59E9-08FF-4776-9EE6-1AFAE2568E92}
+	EndGlobalSection
+EndGlobal

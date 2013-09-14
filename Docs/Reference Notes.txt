@@ -1,0 +1,4 @@
+Reference Notes
+
+http://msdn.microsoft.com/en-us/library/vstudio/ms400752.aspx
+http://www.icescrum.org/en/
