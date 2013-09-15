@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{E7E6441A-13DC-441B-9260-00EE7567DD00}"
 	ProjectSection(SolutionItems) = preProject
 		Docs\Agile   Scrum Project Tracking.xmind = Docs\Agile   Scrum Project Tracking.xmind
+		Docs\AgileScrum.vpp = Docs\AgileScrum.vpp
 		Docs\Reference Notes.txt = Docs\Reference Notes.txt
 	EndProjectSection
 EndProject
